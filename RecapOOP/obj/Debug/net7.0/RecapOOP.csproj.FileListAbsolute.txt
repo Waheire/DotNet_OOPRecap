@@ -1,0 +1,15 @@
+C:\Projects\c#\RecapOOP\RecapOOP\bin\Debug\net7.0\RecapOOP.exe
+C:\Projects\c#\RecapOOP\RecapOOP\bin\Debug\net7.0\RecapOOP.deps.json
+C:\Projects\c#\RecapOOP\RecapOOP\bin\Debug\net7.0\RecapOOP.runtimeconfig.json
+C:\Projects\c#\RecapOOP\RecapOOP\bin\Debug\net7.0\RecapOOP.dll
+C:\Projects\c#\RecapOOP\RecapOOP\bin\Debug\net7.0\RecapOOP.pdb
+C:\Projects\c#\RecapOOP\RecapOOP\obj\Debug\net7.0\RecapOOP.csproj.AssemblyReference.cache
+C:\Projects\c#\RecapOOP\RecapOOP\obj\Debug\net7.0\RecapOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\c#\RecapOOP\RecapOOP\obj\Debug\net7.0\RecapOOP.AssemblyInfoInputs.cache
+C:\Projects\c#\RecapOOP\RecapOOP\obj\Debug\net7.0\RecapOOP.AssemblyInfo.cs
+C:\Projects\c#\RecapOOP\RecapOOP\obj\Debug\net7.0\RecapOOP.csproj.CoreCompileInputs.cache
+C:\Projects\c#\RecapOOP\RecapOOP\obj\Debug\net7.0\RecapOOP.dll
+C:\Projects\c#\RecapOOP\RecapOOP\obj\Debug\net7.0\refint\RecapOOP.dll
+C:\Projects\c#\RecapOOP\RecapOOP\obj\Debug\net7.0\RecapOOP.pdb
+C:\Projects\c#\RecapOOP\RecapOOP\obj\Debug\net7.0\RecapOOP.genruntimeconfig.cache
+C:\Projects\c#\RecapOOP\RecapOOP\obj\Debug\net7.0\ref\RecapOOP.dll
